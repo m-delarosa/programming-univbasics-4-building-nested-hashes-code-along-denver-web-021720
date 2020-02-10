@@ -29,5 +29,3 @@ def bonus
   p epic_tragedy
 end
 
-bonus
-
